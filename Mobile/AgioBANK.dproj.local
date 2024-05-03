@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/01 08:30:39.000.428,=C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/01 08:57:55.000.666,=C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/01 08:59:18.000.309,=C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/01 14:23:30.000.372,=C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/03 09:27:41.000.049,=C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/03 09:28:14.000.961,C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\viewCadastro.fmx</Transaction>
+    <Transaction>2024/05/03 09:28:14.000.961,C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\viewCadastro.pas</Transaction>
+    <Transaction>2024/05/03 09:45:41.000.575,C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\viewCadastro.pas=C:\Users\Dev-Erick\Documents\Dev-Erick\Projetos\AgioBANK\viewCadastro.pas</Transaction>
+    <Transaction>2024/05/03 09:45:41.000.575,C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\viewCadastro.fmx=C:\Users\Dev-Erick\Documents\Dev-Erick\Projetos\AgioBANK\viewCadastro.fmx</Transaction>
+    <Transaction>2024/05/03 09:45:50.000.631,C:\Users\Dev-Erick\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Dev-Erick\Documents\Dev-Erick\Projetos\AgioBANK\AgioBANK.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
