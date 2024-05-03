@@ -1,0 +1,1 @@
+Este app foi desenvolvido em Delphi, para gerir os seus empréstimos de forma mais simples.
